@@ -21,10 +21,8 @@ create_tables.py creates the needed sqlite tables <br>
 setmonitormode.py sets the wlan1 device to monitormode<br>
 channelhopping.py automatically hops between the list of channels in de code<br>
 parsefrompipe.py allows you to stream and parse the json output of tshark and write it to a database<br>
-
-
 parsecaptures.py allows you to parse a capture file from wireshark that is exported to json.
-
+<br><br>
 # what needs to be done
-The actual detecting and signaling of deauth packages
+The actual detecting and signaling of deauth packages <br>
 The visualization of mac to mac communication
